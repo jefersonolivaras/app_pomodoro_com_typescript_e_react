@@ -1,6 +1,6 @@
 Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
 
-- Para fazer passo a passo, verifique a pasta `BKP`.
+- **Para fazer passo a passo, verifique a pasta** `BKP`.
 
 ## Scripts Disponíveis
 
